@@ -48,8 +48,8 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 .header {
